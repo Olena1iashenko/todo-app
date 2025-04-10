@@ -25,7 +25,7 @@ export default function Home() {
         priority
       />
       <Link href='/todos'>
-        <Button>Start your ToDo List</Button>
+        <Button variant='homeButton'>Start your ToDo List</Button>
       </Link>
     </main>
   );
